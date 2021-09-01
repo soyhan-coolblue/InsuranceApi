@@ -1,0 +1,9 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Insurance.Domain</RootNamespace>
+    <AssemblyName>Insurance.Domain</AssemblyName>
+  </PropertyGroup>
+
+</Project>
